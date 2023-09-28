@@ -1,3 +1,3 @@
 # RepositorioEj2
-Alejandro Chulilla (J)
+Alejandro Chulilla (J) <br>
 Marc Giménez (M1)
